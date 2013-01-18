@@ -1,0 +1,16 @@
+{
+  "name": "jak-docgenerator",
+  "version": "0.0.0",
+  "description": "A simple doctor.js utility to convert your docs into HTML",
+  "main": "./lib/index.js",
+  "dependencies": {
+    "jsdom": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jussi-kalliokoski/jak-docgenerator.js"
+  },
+  "bin": "./bin/docgenerator.js",
+  "author": "Jussi Kalliokoski",
+  "license": "MIT"
+}
